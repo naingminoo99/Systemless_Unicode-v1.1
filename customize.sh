@@ -1,6 +1,6 @@
 ##########################################################################################
 #
-# MMT Extended Config Script
+# Systemless Unicode installer
 #
 ##########################################################################################
 
@@ -25,16 +25,6 @@
 
 # Construct your list in the following format
 # This is an example
-REPLACE_EXAMPLE="
-/system/app/Youtube
-/system/priv-app/SystemUI
-/system/priv-app/Settings
-/system/framework
-"
-
-# Construct your own list here
-REPLACE="
-"
 
 ##########################################################################################
 # Permissions
